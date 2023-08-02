@@ -34,8 +34,6 @@ migrate_working_dir/
 /lib/Model
 /lib/provider/
 /lib/detailslist.dart
-/lib/drawernavigation.dart
-/lib/home.dart
 
 # Symbolication related
 app.*.symbols
